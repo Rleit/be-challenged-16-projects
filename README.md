@@ -2,13 +2,13 @@
 
 ![](https://img.shields.io/github/stars/rleit/be-challenged-16-projects?style=social)  ![](https://img.shields.io/github/forks/rleit/be-challenged-16-projects)
 
-##Description
+## Description
 This is a list of 16 potential projects to work on. Fork the repository and check out the ReadMe-s for the challenge.
 
 When working on a challenge, do not forget to always push the changes and outcome to your forked repository. It helps to have it as a example projects on CVs for example. 
 
 
-###Expected outcome
+### Expected outcome
 A 16 project portfolio piece to use as a interview talking point about your experience.
 
 ### Info Dump
@@ -20,8 +20,8 @@ https://code.visualstudio.com/
 
 **Dont forget that when Python is installed you can use PIP to get libraries**
 
-###BeChallenged task list
-- ####Basic
+### BeChallenged task list
+- #### Basic
 - [ ] [ 1 ] - Number Guessing
 - [ ] [ 2 ] - Coin Flip Simulation
 - [ ] [ 3 ] - Unit Converter (temp, currency, volume, mass and more)
@@ -35,10 +35,10 @@ https://code.visualstudio.com/
 - [ ] [ 9 ] - WIP
 - [ ] [ 10 ] - WIP
 - [ ] [ 11 ] - WIP
-- ####Data analytics
+- #### Data analytics
 - [ ] [ 12 ] - WIP
 - [ ] [ 13 ] - WIP
 - [ ] [ 14 ] - WIP
 - [ ] [ 15 ] - WIP
-- ####Outputting
+- #### Outputting
 - [ ] [ 16 ] - WIP
