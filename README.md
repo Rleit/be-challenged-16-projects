@@ -3,7 +3,7 @@
 ![](https://img.shields.io/github/stars/rleit/be-challenged-16-projects?style=social)  ![](https://img.shields.io/github/forks/rleit/be-challenged-16-projects)
 
 ## Description
-This is a list of 16 potential projects to work on. Fork the repository and check out the ReadMe-s for the challenge.
+This is a list of 16 potential python projects to work on. Fork the repository and check out the ReadMe-s for the challenge.
 
 When working on a challenge, do not forget to always push the changes and outcome to your forked repository. It helps to have it as a example projects on CVs for example. 
 
