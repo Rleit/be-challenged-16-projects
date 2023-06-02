@@ -26,7 +26,7 @@ https://code.visualstudio.com/
 - [ ] [ 2 ] - Coin Flip Simulation
 - [ ] [ 3 ] - Unit Converter (temp, currency, volume, mass and more)
 - [ ] [ 4 ] - Object CRUD and displaying in console
-- [ ] [ 5 ] - 
+- [ ] [ 5 ] - Basic GUI with potentially challenge 3 data
 - #### Online
 - [ ] [ 6 ] - Public API access and displaying information from it
 - [ ] [ 7 ] - How is the wearther right now ? 
