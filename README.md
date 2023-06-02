@@ -33,12 +33,13 @@ https://code.visualstudio.com/
 - #### A
 - [ ] [ 8 ] - Sorting ( Through Merge and/or bubble sort )
 - [ ] [ 9 ] - WIP
-- [ ] [ 10 ] - WIP
-- [ ] [ 11 ] - WIP
 - #### Data analytics
-- [ ] [ 12 ] - WIP
-- [ ] [ 13 ] - WIP
-- [ ] [ 14 ] - WIP
-- [ ] [ 15 ] - WIP
+- [ ] [ 10 ] - Pulling public API for data and creating graphs of them
+- [ ] [ 11 ] - Scientific dataset manipulation
 - #### Outputting
-- [ ] [ 16 ] - WIP
+- [ ] [ 12 ] - QR code generator 
+- [ ] [ 13 ] - PDFs with challenge 10 and 11 data graphs
+- #### Proper challenge
+- [ ] [ 14 ] - GUI for live data analytics (new data coming in and changing live)
+- [ ] [ 15 ] - Website scraper and sentiment analysis
+- [ ] [ 16 ] - BIG PROJ YES
