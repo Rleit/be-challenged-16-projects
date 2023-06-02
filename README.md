@@ -12,13 +12,13 @@ When working on a challenge, do not forget to always push the changes and outcom
 A 16 project portfolio piece to use as a interview talking point about your experience.
 
 ### Info Dump
-** How to get github setup on local machine** - This guide focuses on creating a new branch, which isnt wrong and you can pull this repo seperately .But if you want to have all these readme files ready to go, I suggest forking this repository for more straightforward action..
+**How to get github setup on local machine** - This guide focuses on creating a new branch, which isnt wrong and you can pull this repo seperately .But if you want to have all these readme files ready to go, I suggest forking this repository for more straightforward action..
 https://www.freecodecamp.org/news/introduction-to-git-and-github/
 
-** Most used IDE recently VSCode, also most supported ** - There are also others like sublime, Atom , PyCharm for python by IntellJ. Dependant on what you want. But VSCode fastest to launch, get into and customize if needed.
+**Most used IDE recently VSCode, also most supported ** - There are also others like sublime, Atom , PyCharm for python by IntellJ. Dependant on what you want. But VSCode fastest to launch, get into and customize if needed.
 https://code.visualstudio.com/
 
-** Dont forget that when Python is installed you can use PIP to get libraries**
+**Dont forget that when Python is installed you can use PIP to get libraries**
 
 ### BeChallenged task list
 - #### Basic
