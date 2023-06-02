@@ -25,14 +25,14 @@ https://code.visualstudio.com/
 - [ ] [ 1 ] - Number Guessing
 - [ ] [ 2 ] - Coin Flip Simulation
 - [ ] [ 3 ] - Unit Converter (temp, currency, volume, mass and more)
-- [ ] [ 4 ] - 
+- [ ] [ 4 ] - Object CRUD and displaying in console
 - [ ] [ 5 ] - 
+- #### Online
+- [ ] [ 6 ] - Public API access and displaying information from it
+- [ ] [ 7 ] - How is the wearther right now ? 
 - #### Algo
-- [ ] [ 6 ] - Sorting ( Through Merge and/or bubble sort )
-- [ ] [ 7 ] - Sieve of Eratosthenes
-- #### A
 - [ ] [ 8 ] - Sorting ( Through Merge and/or bubble sort )
-- [ ] [ 9 ] - WIP
+- [ ] [ 9 ] - Sieve of Eratosthenes
 - #### Data analytics
 - [ ] [ 10 ] - Pulling public API for data and creating graphs of them
 - [ ] [ 11 ] - Scientific dataset manipulation
